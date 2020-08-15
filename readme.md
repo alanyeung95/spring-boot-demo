@@ -11,6 +11,9 @@ Test the API endpoint
 ```
 curl localhost:8080
 # Greetings from Spring Boot!
+
+curl localhost:8080/actuator/health
+# {"status":"UP"}
 ```
 
 Run the unit tests
