@@ -1,4 +1,4 @@
-This is a official spring-boot project from https://spring.io/guides/gs/spring-boot
+This is an official spring-boot project from https://spring.io/guides/gs/spring-boot
 
 Run the project
 
